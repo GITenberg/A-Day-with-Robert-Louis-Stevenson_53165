@@ -16,6 +16,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '7578'
     url: http://www.gutenberg.org/2009/agents/7578
+covers:
+- cover_type: archival
+  image_path: 53165-h/images/img-cover-f.jpg
 creator:
   author:
     agent_name: Byron, May Clarissa Gillington
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '34616'
     url: http://www.gutenberg.org/2009/agents/34616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53165#A-Day-with-Robert-Louis-Stevenson
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
